@@ -6,7 +6,7 @@ local obj = {
 }
 obj.__index = obj
 
-obj.winName = "Kuake"
+obj.winName = "KuakeKittyWindow"
 obj.kittyExecOptions = "--override macos_hide_from_tasks=yes --override hide_window_decorations=titlebar-and-corners"
 obj.windowRect = { 0.0, 0.0, 1.0, 0.75 }
 
